@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreatePdf</string>
+    <string name="formulario_title">Formulario</string>
+    <string name="resultados_title">Ficha de Resultados</string>
+</resources>
